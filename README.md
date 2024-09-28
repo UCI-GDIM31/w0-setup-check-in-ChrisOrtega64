@@ -6,7 +6,8 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 ## Introduction
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
-I am worried
+ 
+Hello my name is Christopher Ortega. I use he/him pronouns and my prefered name is Chris since it is shorter.
 
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
