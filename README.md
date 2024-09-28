@@ -11,7 +11,7 @@ Hello my name is Christopher Ortega. I use he/him pronouns and my prefered name 
 
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
-    - [ ] Game Design & Interactive Media
+    - [X] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
     - [ ] Undecided
@@ -28,9 +28,15 @@ The next questions ask about what (if any) prior experience you have. This class
 
 1. Programming (any languages/ frameworks)
 
+I have studied and written code in the C# language during highschool, specifically in my C# Game Design in my senior year. During this course, I practiced making small games by following the instructor's directions on a Google Doc, such as a Flappy Bird remake, a 3D Marble Runner game, and a 2D Farmer Shooter. As a class, we would continously progress each week on making a game in Unity and try to make it unique, such as the 3D Marble Runner game having different obstacles and routes depending on the developer.
+
 2. Game development (any engine)
 
+I have only a bit of expereince in using Visual Studio to make games within the Unity Engine.
+
 3. Unity
+
+I have minimal expereience in the Unity Engine and want to continue my passion for making video games.
 
 ### Programming & Game Development Concepts
 
@@ -43,13 +49,23 @@ For the next questions, a programming or game development concept is presented:
 
 1. Game design document
 
+______
+
 2. Scope management
+
+N/A
 
 3. Iteration
 
+______
+
 4. Object-Oriented programming
 
+N/A
+
 5. Model-View-Controller architecture
+
+N/A
 
 ## Complete!
 
