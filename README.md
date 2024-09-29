@@ -59,6 +59,7 @@ For the next questions, a programming or game development concept is presented:
 1. Game design document
 
 N/A
+RED APPLE (&#x1F34E;):
 
 2. Scope management
 
