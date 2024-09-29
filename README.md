@@ -69,16 +69,22 @@ N/A
 I remember using the Iteration variable in past projects but need a refresher. From what I can remember, it is utilized (mainly) for loops. I remember it was formatted like this: 
 
 [ 
+
 for(counter; condition; iterator) 
 {
 // Code runs here
 }
+
 ]
 
 [ 
+
 counter = int i=0 (starts at 0 loops)
+
 condition = i < 5 (ends after 5 loops, [0, 1, 2, 3, 4] )
+
 iterator = i+=1 (adds by 1 for each loop)
+
 ]
 
 4. Object-Oriented programming
