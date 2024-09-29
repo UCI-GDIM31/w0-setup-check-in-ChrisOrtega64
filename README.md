@@ -71,8 +71,11 @@ I remember using the Iteration variable in past projects but need a refresher. F
 [ 
 
 for(counter; condition; iterator) 
+
 {
+
 // Code runs here
+
 }
 
 ]
