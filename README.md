@@ -7,7 +7,11 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
  
-Hello my name is Christopher Ortega. I use he/him pronouns and my prefered name is Chris since it is shorter.
+I am Christopher Ortega, but I prefer to go by Chris since it is easier to go by during a conversation. I use he/him pronouns. Some games I play during my free time are Roblox, Minecraft, Apex Legends, and Muse Dash. I enjoy playing Roblox and Minecraft with friends since we try our best to enjoy the weekends by playing a Roblox horror experience or Mincreaft when we feel like adding something new to our world as we usually do not have time during the weekdays to play due to conflicting schedules. I also like playing Apex Legends when I feel like experiencing competitive gameplay and want to play a battle royale or First/Third Person Shooter since it helps me relax after a long day. Playing Muse Dash also helps me improve my hand-eye coordination and keeps me focused whenever I feel bored or need a break after writing for so long.
+
+These experiences each inspired me to look deeper into how various individuals come together to create video games, which led me to take courses in game design, such as this one. I also wanted to take these game design courses to learn more about the video game industry and achieve my dream job of becoming a video game developer. Besides this course being a requirement for my GDIM major, I want to get more accustomed to different software utilized in video game development, such as Unity, Visual Studio, Unreal Engine, and various others. I also want to gain more experience in coding and try to develop small games to include in my resume to get a job at a video game company, such as EA, Insomniac Games, or Nintendo. In addition, some experience I have in game development is making games in Unity, such as a 2D Farmer Shooter, a 3D Marble Runner, a 2D Flappy Bird Game, and a 3D Sidescroller Game. However, I want to try learning more about different coding techniques as these projects were created by following directions from a Google Doc and not making the game from scratch/by myself, other than the 3D Marble Runner Game.
+
+Overall, I hope this course will teach me the essentials of using different software, like Unity and Visual Studio, to understand and make simple 2D or 3D games, improve my portfolio, and get a job at a video game company by the time I graduate from UCI.
 
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
@@ -18,6 +22,9 @@ Hello my name is Christopher Ortega. I use he/him pronouns and my prefered name 
     - [ ] Other (please specify)
 
 3. What are you hoping to get out of this class?
+
+
+
 4. What, if anything, are you nervous about for this class?
 
 ## Prior Experience
